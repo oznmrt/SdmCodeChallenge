@@ -1,0 +1,15 @@
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.DataAccess.deps.json
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.DataAccess.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.csprojAssemblyReference.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.AssemblyInfoInputs.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.AssemblyInfo.cs
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.DataAccess.runtimeconfig.json
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.DataAccess.runtimeconfig.dev.json
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.genruntimeconfig.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.DataAccess.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.Entities.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\bin\Debug\netcoreapp3.1\Invoice.Entities.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.DataAccess\obj\Debug\netcoreapp3.1\Invoice.DataAccess.csproj.CopyComplete

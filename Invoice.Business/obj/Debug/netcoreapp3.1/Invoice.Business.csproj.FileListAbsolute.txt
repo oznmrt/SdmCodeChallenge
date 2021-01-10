@@ -1,0 +1,14 @@
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.Business.deps.json
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.Business.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.Business.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.csprojAssemblyReference.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.AssemblyInfoInputs.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.AssemblyInfo.cs
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.csproj.CoreCompileInputs.cache
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.DataAccess.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.Entities.dll
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.DataAccess.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\bin\Debug\netcoreapp3.1\Invoice.Entities.pdb
+C:\Users\OzanMurat\source\repos\Invoice\Invoice.Business\obj\Debug\netcoreapp3.1\Invoice.Business.csproj.CopyComplete
